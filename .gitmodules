@@ -1,3 +1,3 @@
-[submodule "Submodules"]
-	path = Submodules
-	url = https://birdinforest@github.com/Siccity/GLTFUtility.git
+[submodule "Submodules/GLTFUtility"]
+	path = Submodules/GLTFUtility
+	url = https://birdinforest@github.com/birdinforest/GLTFUtility.git
